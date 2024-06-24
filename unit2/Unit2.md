@@ -1,6 +1,6 @@
-# Unit2
+# Unit 2
 
-## Unit 2Writing An Annotated Bibliography
+## Unit 2 Writing An Annotated Bibliography
 
 ### Part 1 Connecting With The Theme
 
