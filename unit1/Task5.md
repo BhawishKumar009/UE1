@@ -1,0 +1,25 @@
+## Activity 5 - Reading And Discussion
+
+Read the following text and discuss the questions below with a partner.
+
+Online dating apps as a marketing channel: A **generational approach** Rita, P., Ramos, R. F., Moro, S., Mealha, M., & Radu, L. (2020)
+
+### 1. Introduction
+
+In a world driven by electronic word-of-mouth based on Social Media (SM) platforms, marketers have taken it into an advantage to procure new relationships between brands, potential customers and developing existing ones (Litterio et al., 2017). In this less tangible and sophisticated era, individuals have changed their roles as consumers, since they take an autonomous part in seeking information about products/services of their interest, making it possible to acquire nearly everything with a simple "click" (Ramos et al., 2019). On a global scale, there are 2.25 billion users of SM daily (Statista, 2017). The average adult (18+) spent about 2 h and 25 min a day in navigating on SM in 2017, with Generation Y taking the most significant portion of that daily usage, with around 3 h and 72 min (Statista, 2017). This shift in user behavior entails companies to reconsider their marketing strategies inside the digital world, by turning their head to relationship-based interactions with their target market, to improve marketing engagement (Stojanovic et al., 2018). As a result, marketers have transformed their roles. In this paradigm, there are two leading SM platforms marketers tend to focus on when they decide to invest in digital marketing: Facebook and Instagram (Voorveld et al., 2018).
+
+Nevertheless, the increasing number of media channels turned the media effectiveness challenging. Time and attention have turned into a rare assent for users, and the number of alternative ways of communication influence the quantity and type of communication (Hartemo, 2016). Although advertising has a positive effect and visibility on brand equity (Abril & Rodriguez-Cánovas, 2016), it has become less efficient. In a situation of high quantity, there are too many ads concentrated in one channel claiming for the users' attention, putting in jeopardy the effects of memory, behaviors toward the ad, attitude, advertised product and even the channel itself where the communication occurs (Rejón-Guardia & Martínez-López, 2014). The main reason to download a dating app is due to its mass marketing popularity and peer influence (LeFebvre, 2017). The game-like swiping characteristic of these apps makes its navigation almost addictive, resulting in placing them into the entertaining app category (Sumter et al., 2017). The age group of 25–34 holds a substantial share of online dating activity with a value of 42.2%, with a total of 279.2 million worldwide users in 2017, and a forecast to reach 331.3 users by 2022 (Statista, 2018).
+
+Although a few marketing campaigns have been executed on dating apps, academia has not developed efforts to understand the receptivity of a dating app as a marketing tool. Therefore, the purpose of this investigation is to explore the willingness to receive intrusive marketing communications through a dating app, and if there are statistical differences between generations for its acceptance. To achieve this objective, 411 user reactions were collected from Tinder after the launch of a marketing campaign, providing the corpus for analysis. Sentiment analysis was adopted to rank the responses, thus enabling us to understand the types of user feedback toward marketing communication and a Kruskal-Wallis H test to comprehend if there are statistical differences between each generation. Although the creative aspect of marketing communication is not considered, from a marketer's perspective, it is crucial to understand how dating apps users react facing marketing communication, considering that the channel 9
+
+### Influences Its Effect.
+
+Using generational cohorts permit an additional understanding of the users' response toward a marketing campaign, as each group is perfectly delimited by a particular period and involves people who were born within a specific period, with similar values, experiences and priorities (Bento et al., 2018). The period when the audience was born can provide indicators of target groups and interests and particular insights of each generational microculture.
+
+By uncovering the users' reactions, this paper intends to bring valuable insights for scientific literature and marketers by understanding if an online dating app is an appropriate channel to conduct marketing activities since there is a positive correlation between channel acceptance and ad attitude (Bakr et al., 2019), and if audience generation is a determinant for its acceptance.
+
+Rita, P., Ramos, R. F., Moro, S., Mealha, M., & Radu, L. (2020). Online dating apps as a marketing channel: A generational approach. _European Journal of Management and Business Economics,_ 30(1), 1-17.
+
+1. Who might be the intended readers of this text? Why do you think so?
+2. What is/are the purpose(s) of this text? How do you know?
+3. What is the societal context which underlies this topic?
